@@ -1,0 +1,63 @@
+h1
+  {
+    font-family: 'Barrio', cursive;
+    font-size: 80px;
+    text-align:center;
+    margin-top: 30px;
+  }
+
+h2
+  {
+    font-family: 'VT323', monospace;
+    font-size: 40px;
+    text-align: right;
+    margin-top: auto;
+    margin-right: 30px;
+  }
+
+.main
+  {
+    text-align: center;
+    margin-right:20%;
+    margin-left: 20%;
+  }
+
+.image
+{
+  margin-left: auto;
+  margin-right:auto;
+  max-width: 1000px;
+}
+
+.image img
+{
+  max-width: 100%;
+  width:auto;
+  display:block;
+  margin-bottom: 20px;
+}
+
+.Aboutus h3
+{
+    cursor: pointer;
+    font-family: 'Barrio', cursive;
+    font-size: 40px;
+    color:green;
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 30px;
+  }
+
+.au
+{
+  display: none;
+}
+
+.au h4, h5, h6
+{
+  font-family: 'Pangolin', cursive;
+  font-size: 28px;
+  text-align:center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
